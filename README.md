@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello World!
+
+Just trying to learn git verison control!
